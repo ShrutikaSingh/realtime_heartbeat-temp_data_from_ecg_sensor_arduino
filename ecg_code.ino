@@ -144,3 +144,4 @@ Serial.println(tempF);
 
 
 }
+//here it is not sent into the server
