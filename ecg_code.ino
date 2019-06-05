@@ -144,4 +144,4 @@ Serial.println(tempF);
 
 
 }
-//here it is not sent into the server
+//here it is not sent into the server the server, if you want with sending code its on the next folder
